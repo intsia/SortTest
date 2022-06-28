@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+*.ipch
+*.vsidx
+*.lock
+.vs/DedTask/v17/.suo
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.recipe
+*.ilk
+*.log
+*.pdb
+*.tlog
+*.idb
